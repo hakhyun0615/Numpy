@@ -1,6 +1,7 @@
 # Numpy Operations
 This repository contains notes and examples on various Numpy operations.
 
+## Contents
 ### Creation
 - Creation from a List
 - Initialization
