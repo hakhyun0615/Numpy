@@ -1,5 +1,5 @@
 # Numpy Operations
-This repository contains notes and examples on various Pandas operations.
+This repository contains notes and examples on various Numpy operations.
 
 ### Creation
 - Creation from a List
